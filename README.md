@@ -12,7 +12,7 @@ python toolbox.py shout hello world
 | Tool | What it does | Author |
 | --- | --- | --- |
 | shout | upper-cases the text and adds `!` | dianewoodbridge |
-| reverse | reverses the text |  |
+| reverse | reverses the text | notes/tjsasser.md |
 | wordcount | counts the words |  |
 | initials | returns the initials | |
 
