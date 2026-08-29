@@ -12,9 +12,13 @@ python toolbox.py shout hello world
 | Tool | What it does | Author |
 | --- | --- | --- |
 | shout | upper-cases the text and adds `!` | dianewoodbridge |
+| reverse | reverses the text |  |
+| wordcount | counts the words |  |
+| initials | returns the initials |notes/zniu4.md | 
 | reverse | reverses the text | tjsasser |
 | wordcount | counts the words | ahmadavar |
 | initials | returns the initials | |
+
 
 ## How to contribute
 
