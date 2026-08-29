@@ -15,6 +15,10 @@ python toolbox.py shout hello world
 | reverse | reverses the text |  |
 | wordcount | counts the words |  |
 | initials | returns the initials |notes/zniu4.md | 
+| reverse | reverses the text | tjsasser |
+| wordcount | counts the words | ahmadavar |
+| initials | returns the initials | |
+
 
 ## How to contribute
 
